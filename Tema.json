@@ -158,15 +158,6 @@
                         "transparency": 0
                     }
                 ]
-            "outspace":[
-               {
-                  "color":{
-                     "solid":{
-                        "color":"#FFFFFF"
-                     }
-                  }
-               }
-            ]
          }
       }
    }
