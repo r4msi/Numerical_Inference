@@ -90,9 +90,10 @@
                   "radius":4
                }
             ],
-            "dropShadow":[
+            "title":[
                {
-                  "show":true
+                  "titleWrap":false,
+                  "alignment":"Center"
                }
             ],
             "visualHeader":[
